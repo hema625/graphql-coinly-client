@@ -37,7 +37,7 @@ class coins extends Component {
         console.log(this.props);
         return(<div>
             All Coins
-            {this.displayCoins()}
+            {/* {this.displayCoins()} */}
         </div>)
     }
 }
